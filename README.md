@@ -8,6 +8,7 @@ This a a simple application for testing the Veeplay Cordova plugin.
     cd veeplay-cordova-testing-app
     cordova plugin add https://github.com/veeplay/veeplay-cordova-plugin.git
     cordova build android
+    cordova run android --device
 
 ###Licensing
 
