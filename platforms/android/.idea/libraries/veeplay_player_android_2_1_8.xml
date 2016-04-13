@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="veeplay-player-android-2.1.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.veeplay/veeplay-player-android/2.1.8/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.veeplay/veeplay-player-android/2.1.8/jars/libs/YouTubeAndroidPlayerApi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.veeplay/veeplay-player-android/2.1.8/jars/libs/exoplayer-general.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.veeplay/veeplay-player-android/2.1.8/jars/libs/cloning-1.9.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.veeplay/veeplay-player-android/2.1.8/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.veeplay/veeplay-player-android/2.1.8/jars/libs/jdom-2.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
