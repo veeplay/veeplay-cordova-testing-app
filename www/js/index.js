@@ -44,6 +44,15 @@ var app = {
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
 
+        window.veeplay.appStarted();
+
+        window.veeplay.configureCastSettings({
+            "playText": "Einplayen",
+            "pauseText": "Zweiplayen",
+            "disconnectText": "Drei",
+            "appName": "iApp"
+        });
+
         $('#play').click(function() {
             console.log("should play");
             window.veeplay.playFromUrl("https://dl.dropboxusercontent.com/u/18356756/codecheck_check.json", function(result) {
